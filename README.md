@@ -1,3 +1,1 @@
-# A Simple AuthServer Implementation
-
-
+# A Simple AuthServer Implementation
