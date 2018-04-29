@@ -1,4 +1,4 @@
-package com.oweu.authorizationserver.oridinary.interceptor;
+package com.oweu.authorizationserver.oridinary.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

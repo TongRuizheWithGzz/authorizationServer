@@ -1,4 +1,5 @@
-package com.oweu.authorizationserver.oridinary.interceptor;
+package com.oweu.authorizationserver.oridinary.config;
+import com.oweu.authorizationserver.oridinary.interceptor.SysInterceptor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
